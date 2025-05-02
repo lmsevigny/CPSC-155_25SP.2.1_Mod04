@@ -7,3 +7,4 @@
 ### Students:
 * Sam Stoodent
 * Ryan Williams
+* Evan Lundgren
