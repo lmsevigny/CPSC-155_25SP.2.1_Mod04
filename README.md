@@ -10,6 +10,7 @@
   
 ### Students:
 * Sam Stoodent
+* Brandon Nuttall
 * Ryan Williams
 * Evan Lundgren
 * Mason Beckman
