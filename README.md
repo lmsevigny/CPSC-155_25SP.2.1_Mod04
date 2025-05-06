@@ -11,3 +11,4 @@
 * Mason Beckman
 * Michael Deur
 * Zion Andrade
+* Tyra Nye
