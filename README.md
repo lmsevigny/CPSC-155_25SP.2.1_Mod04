@@ -13,3 +13,4 @@
 * Zion Andrade
 * Tyra Nye
 * Emma Walls
+* Tim Tanton
