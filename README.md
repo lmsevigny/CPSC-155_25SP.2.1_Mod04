@@ -15,3 +15,4 @@
 * Emma Walls
 * Tim Tanton
 * Sahar Sepehr
+* Tanner Silva
