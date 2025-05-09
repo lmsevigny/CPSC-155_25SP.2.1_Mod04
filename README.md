@@ -3,6 +3,8 @@
 ## Congratulations CPSC-155 Students!
   
 ### Instructor: Lawrence Sevigny
+
+### Tutor: Vargus Fellwroth
   
 ### Students:
 * Sam Stoodent
