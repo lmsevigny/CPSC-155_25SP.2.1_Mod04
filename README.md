@@ -4,7 +4,9 @@
   
 ### Instructor: Lawrence Sevigny
 
-### Tutor: Vargus Felwroth
+### Tutor: Vargus Fellwroth
+  
+### Chaos monkey was here ensuing... chaos
   
 ### Students:
 * Sam Stoodent
