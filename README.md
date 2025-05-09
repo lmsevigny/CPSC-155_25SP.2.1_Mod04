@@ -3,6 +3,10 @@
 ## Congratulations CPSC-155 Students!
   
 ### Instructor: Lawrence Sevigny
+
+### Tutor: Vargus Fellwroth
+  
+### Chaos monkey was here ensuing... chaos
   
 ### Tutor: Vargus Fellwroth
 
