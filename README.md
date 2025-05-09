@@ -4,6 +4,8 @@
   
 ### Instructor: Lawrence Sevigny
   
+### Tutor: Vargus Fellwroth
+
 ### Students:
 * Sam Stoodent
 * Ryan Williams
