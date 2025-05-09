@@ -4,6 +4,8 @@
   
 ### Instructor: Lawrence Sevigny
   
+### Chaos monkey was here ensuing... chaos
+  
 ### Students:
 * Sam Stoodent
 * Ryan Williams
