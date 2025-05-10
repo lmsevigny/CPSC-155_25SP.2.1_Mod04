@@ -10,7 +10,6 @@
   
 ### Students:
 * Sam Stoodent
-* Brandon Nuttall
 * Ryan Williams
 * Evan Lundgren
 * Mason Beckman
@@ -26,3 +25,4 @@
 * Owen DeChambeau
 * Diego Mendoza
 * Ahmed Waleed
+* Brandon Nuttall
