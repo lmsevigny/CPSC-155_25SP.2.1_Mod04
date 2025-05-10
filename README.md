@@ -8,8 +8,6 @@
   
 ### Chaos monkey was here ensuing... chaos
   
-### Chaos monkey was here ensuing... chaos
-  
 ### Students:
 * Sam Stoodent
 * Ryan Williams
@@ -25,3 +23,4 @@
 * Ryan Posey
 * Mika Calderon
 * Owen DeChambeau
+* Diego Mendoza
