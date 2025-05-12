@@ -6,6 +6,8 @@
 
 ### Tutor: Vargus Fellwroth
   
+### Chaos monkey was here ensuing... chaos
+
 ### Students:
 * Sam Stoodent
 * Ryan Williams
@@ -19,3 +21,9 @@
 * Sahar Sepehr
 * Tanner Silva
 * Ryan Posey
+* Mika Calderon
+* Owen DeChambeau
+* Faith Ewing
+* Diego Mendoza
+* Ahmed Waleed
+* Brandon Nuttall
