@@ -7,8 +7,6 @@
 ### Tutor: Vargus Fellwroth
   
 ### Chaos monkey was here ensuing... chaos
-  
-### Tutor: Vargus Fellwroth
 
 ### Students:
 * Sam Stoodent
